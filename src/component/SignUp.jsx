@@ -1,11 +1,10 @@
-import React from 'react'
-import Signlogin from './Signlogin'
-
+import React from "react";
+import Signlogin from "./Signlogin";
 
 export default function SignUp() {
   return (
     <div>
-        <Signlogin type="signup"/>
+      <Signlogin type="signup" />
     </div>
-  )
+  );
 }

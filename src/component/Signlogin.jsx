@@ -22,8 +22,12 @@ export default function Sign_LoginPage(prop) {
           alt="react_icon"
         />
         <div className="random_text">
-          <p className="text" style={{fontWeight:"700"}}>some random text, some random</p>
-          <p className="text" style={{fontWeight:"700"}}>text, some random text, some random text</p>
+          <p className="text" style={{ fontWeight: "700" }}>
+            some random text, some random
+          </p>
+          <p className="text" style={{ fontWeight: "700" }}>
+            text, some random text, some random text
+          </p>
         </div>
 
         <div className="login_signup">
