@@ -23,10 +23,10 @@ export default function Sign_LoginPage(prop) {
         />
         <div className="random_text">
           <p className="text" style={{ fontWeight: "700" }}>
-            some random text, some random
+            My name is Anuj Kumar Vishwakarma
           </p>
           <p className="text" style={{ fontWeight: "700" }}>
-            text, some random text, some random text
+            I had completed this project in optimized way.
           </p>
         </div>
 
